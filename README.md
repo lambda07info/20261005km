@@ -140,6 +140,8 @@ Language Inventory
 
 出版物の分析結果を、教材作成の基礎データとなるLanguage Inventoryに整理する。
 
+Language Inventoryの構成・各項目の基本データ・教材との関係については、[Language Inventoryの設計](docs/language-inventory.md)を参照する。
+
 Language Inventoryには、必要に応じて次のような情報を持たせる。
 
 - 学習項目
